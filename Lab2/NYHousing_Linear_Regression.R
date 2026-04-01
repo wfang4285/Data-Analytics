@@ -2,7 +2,7 @@ library("ggplot2")
 library("readr")
 
 ## read dataset
-NY_House_Dataset <- read_csv("C:/Users/fangw2/Desktop/DATA_ANALYTICS/Lab2/NY-House-Dataset.csv")
+NY_House_Dataset <- read_csv("NY-House-Dataset.csv")
 
 dataset <- NY_House_Dataset
 

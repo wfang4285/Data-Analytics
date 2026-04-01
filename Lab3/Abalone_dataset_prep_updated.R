@@ -10,7 +10,7 @@ library(cluster)
 library(factoextra)
 
 ## read data
-abalone <- read.csv("C:/Users/fangw2/Desktop/DATA_ANALYTICS/Lab3/abalone/abalone.data", header=FALSE)
+abalone <- read.csv("abalone/abalone.data", header=FALSE)
 
 ## rename columns
 colnames(abalone) <- c("sex", "length", 'diameter', 'height', 'whole_weight', 'shucked_wieght', 'viscera_wieght', 'shell_weight', 'rings' ) 

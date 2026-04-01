@@ -3,7 +3,7 @@ library(EnvStats)
 library(nortest)
 
 # set working directory (relative path)
-setwd("C:/Users/fangw2/Desktop/DATA_ANALYTICS/Lab1")
+setwd("XX")
 
 # read data
 data <- read_csv("epi_results_2024_pop_gdp.csv")

@@ -4,7 +4,7 @@ library("readr")
 
 
 ## read dataset
-NY_House_Dataset <- read_csv("C:/Users/fangw2/Desktop/DATA_ANALYTICS/Lab1/NY-House-Dataset.csv")
+NY_House_Dataset <- read_csv("NY-House-Dataset.csv")
 
 dataset <- NY_House_Dataset
 
